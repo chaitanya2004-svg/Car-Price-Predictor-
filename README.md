@@ -53,3 +53,6 @@ The following steps are used:
 - Integrate with a web frontend for real-time prediction
 - Improve model accuracy with larger datasets
 - Add more relevant features (e.g., region, brand reputation)
+
+**Online Application Link**
+https://7efysvcv9nf89ftca2vysk.streamlit.app/
